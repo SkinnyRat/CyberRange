@@ -1,2 +1,2 @@
-# CyberRange
-Code, scripts, commands for deploying cyber range targets and wireguard networking. 
+# Serverless and cloud services 
+Common code, scripts, commands for deploying/provisioning cloud and serverless resources that the other repos use. 
